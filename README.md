@@ -32,7 +32,13 @@ I'm full-Stack developer , pay attention to details and work hard.
 #  Connect with me 
  <a href='www.linkedin.com/in/walaarababah
 '><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>  <a href=''><img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'></a> <a href=''><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'></a>
- 
+<a href="https://github.com/walaarababah">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walaarababah&hide=php,c,vim script,objective-c,actionscript,roff,html,javascript,css,java,&langs_count=3&theme=nord" />
+</a> 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walaarababah&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=walaarababah)](https://github.com/C6-WalaaRababa/Portfolio-GitHub-Repo/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=walaarababah&layout=compact"/>
 <!--  <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=WalaaRababa&show_icons=true&theme=dark"
@@ -44,6 +50,7 @@ I'm full-Stack developer , pay attention to details and work hard.
 />
 <img src="https://github-readme-stats.vercel.app/api?username=WalaaRababa&show_icons=true" />
 </picture>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalaaRababa/>
 
 <picture>
  <source 
@@ -57,6 +64,7 @@ I'm full-Stack developer , pay attention to details and work hard.
  <img src="https://github-readme-stats.vercel.app/api/top-langs/username?=WalaaRababa&show_icons=true" />
 
 />
+
 </picture> -->
 <!-- <a href="https://github.com/C6-WalaaRababa/MERAKI_Academy_Project_4">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=&repo=github-readme-stats" />
