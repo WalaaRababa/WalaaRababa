@@ -1,22 +1,22 @@
 # Hi there ,I am **Wala'a Rababah**👋
 ###  **Glad to see you here!**
-Steve Jobs said " the only way to do somthing great is to whtat you love.If you can't find it, keep looking for it ", I think , now I've found it my passion.
+Steve Jobs said "The only way to do something great is to do what you love. If you can't find it, keep looking for it ", I think, now I've found it my passion.
 
  <div align='center'>
  <img src='https://res.cloudinary.com/dzmmijyxh/image/upload/v1666607742/my%20image/programming_x3kwgw.gif'>
 </div>
 
 # About Me
-I'm full-Stack developer , pay attention to details and work hard.
--  ⚡ I’m currently working somthing cool
-- :mortar_board: I’m currently learning with help from MERAKI Accadmey
-- 💬 Ask me about anthing ,I am happay to help
+I'm a full-Stack developer who pays attention to details and works hard.
+-  ⚡ I’m currently working on something cool
+- :mortar_board: I’m currently learning with help from MERAKI Academy
+- 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: walaarababa@gmail.com
   
   
   
   
-# :clipboard: Langueges and Tools
+# :clipboard: Languages and Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
